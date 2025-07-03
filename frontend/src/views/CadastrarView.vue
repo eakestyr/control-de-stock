@@ -118,7 +118,7 @@ async function submitForm(e: Event) {
         </div>
 
         <div class="form__field flex flex-col gap-2 border-b-1 border-gray-200 pb-3">
-          <label for="precoProduto" class="font-medium">Preço do produto</label>
+          <label for="precoProduto" class="font-medium">Preço do Produto</label>
           <input
             v-model="form.preco"
             step="0.01"
@@ -131,7 +131,7 @@ async function submitForm(e: Event) {
         </div>
 
         <div class="form__field flex flex-col gap-2 border-b-1 border-gray-200 pb-3">
-          <label for="loteProduto" class="font-medium">Lote do produto</label>
+          <label for="loteProduto" class="font-medium">Lote do Produto</label>
           <input
             v-model="form.lote"
             type="text"
@@ -143,7 +143,7 @@ async function submitForm(e: Event) {
         </div>
 
         <div class="form__field flex flex-col gap-2 border-b-1 border-gray-200 pb-3">
-          <label for="validadeProduto" class="font-medium">Validade do produto</label>
+          <label for="validadeProduto" class="font-medium">Validade do Produto</label>
           <input
             v-model="form.validade"
             type="text"
@@ -155,7 +155,7 @@ async function submitForm(e: Event) {
         </div>
 
         <div class="form__field flex flex-col gap-2 border-b-1 border-gray-200 pb-3">
-          <label for="quantidadeProduto" class="font-medium">Quantidade do produto</label>
+          <label for="quantidadeProduto" class="font-medium">Quantidade do Produto</label>
           <input
             v-model="form.quantidade"
             type="number"
@@ -167,7 +167,7 @@ async function submitForm(e: Event) {
         </div>
 
         <div class="form__field flex flex-col gap-2 border-b-1 border-gray-200 pb-3">
-          <label for="localizacaoProduto" class="font-medium">Localização do produto</label>
+          <label for="localizacaoProduto" class="font-medium">Localização do Produto</label>
           <input
             v-model="form.localizacao"
             type="text"
@@ -179,7 +179,7 @@ async function submitForm(e: Event) {
         </div>
 
         <div class="form__field flex flex-col gap-2 border-b-1 border-gray-200 pb-3">
-          <label for="fornecedorProduto" class="font-medium">Fornecedor do produto</label>
+          <label for="fornecedorProduto" class="font-medium">Fornecedor do Produto</label>
           <input
             v-model="form.fornecedor"
             type="text"
