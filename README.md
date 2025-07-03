@@ -22,10 +22,10 @@ A ideia do projeto era começar e escrever este produto em React, mas devido a f
 ### Como instalar e executar?
 
 1. Clone ou instale o .zip do projeto.
-2. Acesse a pasta do projeto e entre em "frontend/" e "backend/" e execute este comando nas duas pastas: `npm install`.
+2. Acesse a pasta do projeto e entre em `frontend/` e `backend/` e execute este comando nas duas pastas: `npm install`.
 3. Tenha um banco de dados e o nodejs (junto com o typescript) instalado em seu computador.
-4. Modifique o ".env" na pasta "backend/" para acessar as configurações de entrada do seu backend.
-5. Execute "npm run dev" na pasta "frontend/" e "node dist/server.js" na pasta "backend/" e teste o produto.
+4. Modifique o ".env" na pasta `backend/` para acessar as configurações de entrada do seu backend.
+5. Execute `npm run dev` na pasta `frontend/` e `node dist/server.js` na pasta `backend/` e teste o produto.
 
 #### Capturas de tela
 
