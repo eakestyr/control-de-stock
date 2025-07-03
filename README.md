@@ -29,16 +29,16 @@ A ideia do projeto era começar e escrever este produto em React, mas devido a f
 
 #### Capturas de tela
 
-**Páginas padrão sem produtos:**
-![Página de Login](https://i.postimg.cc/G2XKJSDH/page-login.png)
-![Página de Registro](https://i.postimg.cc/hjYxGFxb/page-registrar.png)
-![Página do Painel](https://i.postimg.cc/yd3hcY7r/page-principal.png)
-![Página de Cadastrar Produto](https://i.postimg.cc/x17cHGqn/page-cadastrar-produto.png)
-![Página do Editar Produto](https://i.postimg.cc/wBXgvDmW/page-editar-produto.png)
-![Página do Remover Produto](https://i.postimg.cc/K8FyWRVB/page-remover-produto.png)
+**Páginas padrão sem produtos:** 
+![Página de Login](https://i.postimg.cc/G2XKJSDH/page-login.png)  
+![Página de Registro](https://i.postimg.cc/hjYxGFxb/page-registrar.png)  
+![Página do Painel](https://i.postimg.cc/yd3hcY7r/page-principal.png)  
+![Página de Cadastrar Produto](https://i.postimg.cc/x17cHGqn/page-cadastrar-produto.png)  
+![Página do Editar Produto](https://i.postimg.cc/wBXgvDmW/page-editar-produto.png)  
+![Página do Remover Produto](https://i.postimg.cc/K8FyWRVB/page-remover-produto.png)  
 
-** Páginas padrão com produtos
-![Página do Painel](https://i.postimg.cc/9QNJ7kG0/page-principal-com-produto.png)
+**Páginas padrão com produtos**  
+![Página do Painel](https://i.postimg.cc/9QNJ7kG0/page-principal-com-produto.png)  
 ![Página do Editar Produto](https://i.postimg.cc/8P7FCnPt/page-editar-produto-com-produto.png)
 
 ##### Copyright @ 2025 @eakestyr
