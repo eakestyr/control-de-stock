@@ -10,8 +10,6 @@ Este é um MVP de um controle de estoque simples de utilizar. Possui funcionalid
 
 Você deve criar uma conta e fazer login para poder acessar a esta parte do painel que disponibiliza essas informações, e desta forma podendo fazer o controle do seu estoque.
 
-**AVISO:** O projeto foi construido em 1 dia e meio, e por isso possui apenas as funcionalidades básicas, e não estão 100% perfeitas, com toda certa, mas é o meu primeiro projeto em desenvolvimento web. Sinta-se livre para baixar o projeto ou clona-lo e utiliza-lo, fazer modificações, etc.
-
 ## Ferramentas utilizadas
 
 - Frontend: Vue3 + TailwindCSS + Fontawesome CDN + TypeScript
